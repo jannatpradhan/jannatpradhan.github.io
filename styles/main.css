@@ -24,7 +24,9 @@
  * Copyright 2012-2013 Mattia Larentis
  * http://www.apache.org/licenses/LICENSE-2.0
  */
-
+#counter{
+  display: none;
+}
   .submit-button {
   position: relative;
   background-color: #4CAF50;
