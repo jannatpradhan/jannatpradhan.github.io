@@ -1,6 +1,6 @@
 
 #counter{
-   display:none;
+   visibility:hidden;
   } 
   .submit-button {
   position: relative;
