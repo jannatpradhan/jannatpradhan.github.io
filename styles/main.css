@@ -5,7 +5,9 @@
 }
 
 
-
+#visitor{
+  pointer-events: none;
+}
 
   .submit-button {
   position: relative;
