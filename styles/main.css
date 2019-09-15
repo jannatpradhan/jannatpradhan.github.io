@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*!
 
  =========================================================
@@ -25,8 +26,15 @@
  * http://www.apache.org/licenses/LICENSE-2.0
  */
 #counter{
-  display: none;
+  
+  visibility: hidden;
 }
+=======
+
+#counter{
+   visibility:hidden;
+  } 
+>>>>>>> 94d2ff1f3baef6341b5b7c1c522f6566209ec84d
   .submit-button {
   position: relative;
   background-color: #4CAF50;
