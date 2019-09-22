@@ -1,14 +1,4 @@
 
-#counter{
-  
-  visibility: hidden;
-}
-
-
-#visitor{
-  pointer-events: none;
-}
-
   .submit-button {
   position: relative;
   background-color: #4CAF50;
@@ -7293,4 +7283,16 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0;
+}
+
+
+#counter{
+  
+  visibility: hidden;
+}
+
+
+#visitor{
+  pointer-events: none;
+  height: 40px;
 }
